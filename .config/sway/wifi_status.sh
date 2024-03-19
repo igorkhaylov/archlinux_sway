@@ -1,0 +1,1 @@
+/home/igorkhaylov/.config/sway/wifi_status.sh
